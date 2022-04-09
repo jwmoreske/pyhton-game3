@@ -1,5 +1,5 @@
 # pyhton-game3
- > 카오스 이론의 끌개의 자기 유사성이라는 특성을 확인할 수 있는 시뮬레이션
+ > 카오스 이론의 '끌개의 자기 유사성' 이라는 특성을 확인할 수 있는 시뮬레이션
   """
     Written by Jonny Hyman, 2020
         www.jonnyhyman.com
